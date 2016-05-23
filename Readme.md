@@ -1,8 +1,4 @@
 # 한국외대 통계학과 영상 개체인식 개발 프로젝트
-lovetoken  
-`r Sys.Date()`  
-
-
 
 ## HUFS department of statistics project - Video or Image pattern recognition analysis
 
