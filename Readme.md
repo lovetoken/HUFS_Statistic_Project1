@@ -1,8 +1,10 @@
-# 한국외대 통계학과 영상 개체인식 개발 프로젝트 - HUFS department of statistics project about video pattern recognition analysis
+# 한국외대 통계학과 영상 개체인식 개발 프로젝트
 lovetoken  
 `r Sys.Date()`  
 
 
+
+## HUFS department of statistics project - Video or Image pattern recognition analysis
 
 본 프로젝트는 각종 다양한 포맷의 영상에 대해서 개체를 인지하고, 인지한 개체의 정보를 자동적으로 태그하는 방법론을 생각해보고 구현해보며 실제로 동작하는 어플리케이션을 만드는 프로젝트 입니다.  
 현재 기술의 급변으로 인하여 영상의 포맷은 다양해졌고, 변칙적이며, 고해상도화 되고 있어 이와 비례 고용량화 되고 있습니다.  
