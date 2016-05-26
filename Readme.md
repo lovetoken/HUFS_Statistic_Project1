@@ -1,4 +1,7 @@
 # 한국외대 통계학과 영상 개체인식 개발 프로젝트
+lovetoken  
+`r Sys.Date()`  
+
 
 
 ## HUFS department of statistics project - Video or Image pattern recognition analysis
@@ -97,7 +100,9 @@ Public domain 을 채택한 이유는 여러가지가 있습니다.
 
 ### E-1) 프로젝트 구성원
 
-* 송효진
+현 총 1명
+
+* 08학번 송효진
 	- 프로젝트 구상 시초자
 	- E-mail : lt.lovetoken@gmail.com
 

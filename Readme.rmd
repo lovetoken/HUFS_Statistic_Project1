@@ -117,7 +117,9 @@ Public domain 을 채택한 이유는 여러가지가 있습니다.
 
 ### E-1) 프로젝트 구성원
 
-* 송효진
+현 총 1명
+
+* 08학번 송효진
 	- 프로젝트 구상 시초자
 	- E-mail : lt.lovetoken@gmail.com
 
